@@ -3,4 +3,3 @@ numpy==1.21.4
 opencv-python-headless
 Pillow==9.0.1
 streamlit==1.7.0
-python3-opencv
