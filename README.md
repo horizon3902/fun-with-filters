@@ -1,4 +1,4 @@
-# Basic Movie Recommender
+# Fun with Filters
 ### Using OpenCV and np.arrays to understand the effect of filters on photos. 
 
 * [Use this app here](https://share.streamlit.io/horizon3902/fun-with-filters/main/app.py)
